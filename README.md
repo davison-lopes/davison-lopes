@@ -1,4 +1,4 @@
-<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2> olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/68761780/227801901-62b825c0-400a-484e-be71-e42b2e46a2cf.gif" width="300" height="200" />
 
@@ -9,25 +9,18 @@
  
  
  
-I am Davison Lopes 🧔
 
-I live in Baía da Traição. 
+Eu sou davison, vivo na Baía da Traição -PB, sou um universitário apaixonado por tecnologias, caminhando para ser tornar um programador full-stack. Minha paixão por software é sonhar com idéias e torná-las realidade com interfaces elegantes. Tomo muito cuidado pois tenho pouca experiência, mas quero a melhor qualidade possível do código para aquilo que construo.o.. 
 
-## ⚡ Technologies
-I am learning
+## ⚡ Tecnologias
+Estou aprendendo:
 - Front-end development  **HTML, CSS, JavaScript (Angular)**
 - Backend development  **Java**
 - Database **SQL, PostgreSQL** 
 - Mobile development **Flutter**
 
 
-## 🤔 Hello World!! 
-- 💬 Ask me about anything and everything.
-- 🐥Check my Twitter Account [![YouTube](https://img.shields.io/badge/FOLLOW%20ME-TWITTER-informational?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/furkangulsenn)
-- 📽 Watch my videos: [![YouTube](https://img.shields.io/badge/FOLLOW%20ME-YOUTUBE-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/FurkanGulsen) 
-- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@furkangulsen)
-- 🎯 Check out my Instagram page (54k followers): [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
-- 💁‍♂️ View also review my Kaggle works: [![KAGGLE](https://img.shields.io/badge/FOLLOW%20ME-KAGGLE-yellow?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/codeblogger)
+
 
 
 ## 📈 Github Stats
