@@ -1,34 +1,25 @@
 <h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/68761780/227801901-62b825c0-400a-484e-be71-e42b2e46a2cf.gif" width="300" height="200" />
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/Furkan-Gulsen) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammed-furkan-gulsen/) 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.furkangulsen@gmail.com)
+
+
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/davison-lopes) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/davison-lopes/) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.davisonluis4@gmail.com)
  
-I am Muhammed Furkan Gulsen 🧔
+ 
+ 
+I am Davison Lopes 🧔
 
-I live in Istanbul 🏫. I developed myself on the web for over 6 years. I am currently working as a Backend developer at <a href="https://www.linkedin.com/company/ikas-com/mycompany/">IKAS</a>👨‍💻. 
+I live in Baía da Traição. I developed myself on the web for over 6 years. I am currently working as a Backend developer at 
 
-## 👯 Communities
-- Google DSC Mentor (2022-♾)
-- Leader Development Program (LIGEP) - Trainee (2021-2022)
-- BEU Google Developer Student Club (DSC) - Lead (2021-2022)
-- Microsoft Imaginer - Student Ambassador (2021-2022)
-- Global AI Hub - Core Team (2021 - 2022)
-- TensorFlow Turkey - Core Team (2021 - 2022)
-- BEU Google Developer Student Club (DSC) - Core Team (2020 - 2021)
-- BEU Software Engineering Club - Core Team (2020 - 2021)
-- Facebook Developer Circle - Core Team (2019-2020)
 ## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (Angular)**
-- Backend development using **NodeJS, Python**
-- Database using **SQL, PostgreSQL, MongoDB, Redis, ElasticSearch**
-- Mobile development using **Ionic**
-- Creating big and small projects using **Computer Vision (Python)**
-- Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
-- Solving Data structure and algorithm questions in **Java and Python**
+I am learning
+- Front-end development  **HTML, CSS, JavaScript (Angular)**
+- Backend development  **Java**
+- Database **SQL, PostgreSQL** 
+- Mobile development **Flutter**
+
 
 ## 🤔 Hello World!! 
 - 💬 Ask me about anything and everything.
@@ -41,22 +32,7 @@ Talk to me about
 
 ## 📈 Github Stats
 
-<a href="https://github.com/Furkan-Gulsen/Furkan-Gulsen">
+<a href="https://github.com/davison-lopes/davison_lope">
  <img alt="Furkan-Gulsen's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=davison-lopes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
 
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
