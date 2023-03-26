@@ -11,7 +11,7 @@
  
 I am Davison Lopes 🧔
 
-I live in Baía da Traição. I developed myself on the web for over 6 years. I am currently working as a Backend developer at 
+I live in Baía da Traição. 
 
 ## ⚡ Technologies
 I am learning
