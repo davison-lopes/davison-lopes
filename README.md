@@ -10,7 +10,7 @@
  
  
 
-Eu sou davison, vivo na Baía da Traição -PB, sou um universitário apaixonado por tecnologias, caminhando para ser tornar um programador full-stack. Minha paixão por software é sonhar com idéias e torná-las realidade com interfaces elegantes. Tomo muito cuidado pois tenho pouca experiência, mas quero a melhor qualidade possível do código para aquilo que construo.o.. 
+Eu sou davison, vivo na Baía da Traição -PB, sou um universitário apaixonado por tecnologias, caminhando para ser tornar um programador full-stack. Minha paixão por software é sonhar com idéias e torná-las realidade com interfaces elegantes. Tomo muito cuidado pois tenho pouca experiência, mas quero a melhor qualidade possível do código para aquilo que construo.. 
 
 ## ⚡ Tecnologias
 Estou aprendendo:
